@@ -26,7 +26,6 @@ async def help(ctx):
                         Todos estos datos son tomados de [CoinMarketCap](https://coinmarketcap.com)
                 """)
     embed.set_thumbnail(url = "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png")
-    embed.url("https://coinmarketcap.com/")
     await ctx.send(embed=embed)
 
 @bot.command()
