@@ -1,4 +1,4 @@
-# CriptocurrenciesBot
+# CryptocurrenciesBot
 
 Este es un bot scraper que permite obtener distintos datos de distintas criptomonedas desde el chat de discord, tomando datos de la página [CoinMarketCap](https://coinmarket.com).
 
